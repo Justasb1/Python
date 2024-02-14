@@ -1,0 +1,24 @@
+print('daug teksto ir "kabuciu" ir dar kai ko')
+kelias = 'C:\new\tavo.txt'
+print(kelias)
+keliasTobulas = 'C:\\new\\tavo.txt'
+print(keliasTobulas)
+kelias1 = r'C:\new\tavo.txt'
+print(kelias1)
+txt = 'Labas rytas'
+print(txt[1])
+# txt[1] = 'e' # klaida
+print(txt[3:])
+print(txt[::2])
+print(txt[2:10:3])
+
+t1 = 'Labai'
+t2 = 'noriu'
+t3 = 'Namo'
+t4 = t1 +' ' +t2+' ' + t3
+print(t4)
+
+print('%s %s %s'% (t2, t3, t1))
+
+print('{} {} {}' .format(t2, t3 , t1))
+print(f'{t1} {t2} {t3}')

@@ -1,0 +1,4 @@
+c:\Users\justa\Documents\Code\0.01 pamoka – kopija\obj\Debug\net8.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\justa\Documents\Code\0.01 pamoka – kopija\obj\Debug\net8.0\Code.AssemblyInfoInputs.cache
+c:\Users\justa\Documents\Code\0.01 pamoka – kopija\obj\Debug\net8.0\Code.AssemblyInfo.cs
+c:\Users\justa\Documents\Code\0.01 pamoka – kopija\obj\Debug\net8.0\Code.csproj.CoreCompileInputs.cache

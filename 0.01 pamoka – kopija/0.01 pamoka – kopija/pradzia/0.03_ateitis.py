@@ -1,0 +1,7 @@
+a = int(input('Ivesk skaiciu a...'))
+b = input("Ivesk skaiciu b...")
+print(a+int(b))
+print(type(a))
+print(type(b))
+b = int(b)
+print(type(b))

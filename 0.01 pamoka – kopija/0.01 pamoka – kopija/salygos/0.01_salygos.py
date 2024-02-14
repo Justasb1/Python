@@ -1,0 +1,2 @@
+viskasok = True
+print(viskasok)
