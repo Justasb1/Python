@@ -1,0 +1,7 @@
+ManoSlaptazodis123@ --- Slaptažodis netinkamas. Slaptažodis turi turėti bent 2 spec. simbolius (Trūksta 1 simbolių).
+asED15*+ --- Slaptažodis netinkamas. Slaptažodis turi turėti mažiausiai 12 simbolių (Trūksta 4 simbolių).
+JustaSBanionis!@123 --- Slaptažodis tinkamas.
+3aup9cz9pIKp --- Slaptažodis netinkamas. Slaptažodis turi turėti bent 2 spec. simbolius (Trūksta 2 simbolių).
+12H64T6T579T --- Slaptažodis netinkamas. Slaptažodis turi turėti bent 2 mažąsias raides (Trūksta 2 simbolių). Slaptažodis turi turėti bent 2 spec. simbolius (Trūksta 2 simbolių).
+oZP!@!ZRNObF --- Slaptažodis netinkamas. Slaptažodis turi turėti bent 2 skaičius (Trūksta 2 simbolių).
+0wByR6VRqo+jZ22%v --- Slaptažodis tinkamas.
