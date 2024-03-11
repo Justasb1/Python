@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\justa\\Documents\\Code\\0.01 pamoka – kopija\\veliaveles.csproj",
+      "projectUniqueName": "C:\\Users\\justa\\Documents\\Projektai\\Python\\0.01 pamoka – kopija\\veliaveles.csproj",
       "projectName": "veliaveles",
-      "projectPath": "c:\\Users\\justa\\Documents\\Code\\0.01 pamoka – kopija\\veliaveles.csproj",
+      "projectPath": "C:\\Users\\justa\\Documents\\Projektai\\Python\\0.01 pamoka – kopija\\veliaveles.csproj",
       "packagesPath": "C:\\Users\\justa\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\justa\\Documents\\Code\\0.01 pamoka – kopija\\obj\\",
+      "outputPath": "C:\\Users\\justa\\Documents\\Projektai\\Python\\0.01 pamoka – kopija\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\justa\\AppData\\Roaming\\NuGet\\NuGet.Config"
