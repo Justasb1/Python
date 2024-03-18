@@ -1,22 +1,17 @@
 class Robotai:
-    '''Dokumentacija apie klase robotai'''
     name = None
     age = None
     enable = None
 
-    def startRobot(self, val, min):
-        self.val = val
-        self.min = min
+    def set_data(self, name, age, enable):
+        self.name = name
+        self.age = age
+        self.enebale = enable
 
-    def getStartRobot(self):
-        return self.val, self.min
+    def get_data(self):
+        print(f'Cia Robotas {self.name}.\nJo duomenys:\nAmzius:{self.age}\nAr ijungas:{self.enable}')
 
-languRobotas = Robotai()
-grinduRobotas = Robotai()
+languRobotas = Robotai('NoName', 3, False)
+languRobotas.get_data()
 
-# Robotai.pasisveikinimas()
-
-languRobotas.startRobot(15, 25)
-grinduRobotas.startRobot(19, 28)
-
-print(f'Langu robotas startavo {languRobotas.val} : {languRobotas.min}')
+print(languRobotas.__dict__)

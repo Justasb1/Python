@@ -17,7 +17,7 @@ def MusuFunkcija(n):
         suma += i
     return suma
 
-print(MusuFunkcija(1000000))
+print(MusuFunkcija(1_000_000))
 
 @kiekLaiko
 def MusuFunkcija1(n, k):
@@ -26,4 +26,7 @@ def MusuFunkcija1(n, k):
         suma += i*k
     return suma
 
-print(MusuFunkcija1(10000, 5))
+print(MusuFunkcija1(10_000, 5))
+
+wow_wrapped = kiekLaiko(MusuFunkcija)
+wow_wrapped(1_000_000)
