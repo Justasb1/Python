@@ -5,6 +5,9 @@ class Robotai:
         self._enable = enable
         self._force = force
 
+    def __str__(self):
+        return f'Priklauso klasei: {self.__class__.__name__}\nVardas: {self.name}\nAmzius: {self.age}\nGalia: {self.force}\n'
+
 class DulkiuSiurbliaiRobotai(Robotai):
     def __init__(self,name, age, enable, force, ratai, siurbimoGalia, talpaDulkiu, plovimas):
         super().__init__(name, age, enable, force)
@@ -12,6 +15,9 @@ class DulkiuSiurbliaiRobotai(Robotai):
         self.siurbimoGalia = siurbimoGalia
         self.talpaDulkiu = talpaDulkiu
         self.plovimas = plovimas
+
+    def __str__(self):
+        return super().__str__() +f'Ratu skaicius: self'
 
 class languRobotai(Robotai):
     def __init__(self, name, age, enable, force,  plovimoForma, skyscioPurskimoFunkcija, valdymoPultelis):
